@@ -32,7 +32,7 @@ function Sports() {
               icon: "/matchlogo.png",
               video: "/Guard of Honour for our WPL Champions _ RCB Unbox.mp4",
               smallText: "IPL | Thriller | Live Event  ",
-              info: "Every fight begins with a failure! Braving against the odds, Manoj Kumar Sharma puts it all on the line to crack the nation’s much sought-after exam: UPSC.",
+              info: "Watch Royal Challenges Bangalore lifting there first IPL Trophy History created .",
             }}
           />
 
